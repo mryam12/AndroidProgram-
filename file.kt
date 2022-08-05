@@ -1,5 +1,5 @@
 fun main (){
-    val name = "Mariam"
+    val name = "Version 1"
     println("name")
 
 }
